@@ -37,7 +37,7 @@
     "koa-webpack-hot-middleware": "^1.0.3",
     "koa2": "^2.0.0-alpha.7",
     "mini-css-extract-plugin": "^0.7.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "node-sass": "^4.12.0",
     "nodemon": "^2.0.4",
     "postcss-loader": "^3.0.0",
